@@ -9,9 +9,8 @@ This repository showcases a collection of practical projects demonstrating my sk
 The portfolio has been developed using real-world business scenarios to demonstrate problem-solving, system configuration, process mapping, automation, reporting, and stakeholder-focused solutions.
 
 ## Portfolio Projects
-
-- **Salesforce CRM** – Practical CRM administration, automation, security, finance decisioning, campaign management, and SLA/entitlement solutions.
-- **SAP Order-to-Cash & SAP BTP** – End-to-end SAP SD O2C process simulation and SAP Build Apps order management solution.
-- **Azure DevOps SDLC** – Backlog management, user stories, task breakdown, sprint boards, and Agile delivery documentation.
+- **[Salesforce CRM](./Salesforce)** – Practical CRM administration, automation, security, finance decisioning, campaign management, and SLA/entitlement solutions.
+- **[SAP Order-to-Cash & SAP BTP](./SAP%20Order-to-Cash%20%26%20BTP)** – End-to-end SAP SD O2C process simulation and SAP Build Apps order management solution.
+- **[Azure DevOps SDLC](./Azure%20DevOps%20SDLC)** – Backlog management, user stories, task breakdown, sprint boards, and Agile delivery documentation.
 
 Each project contains supporting documentation, process flows, architecture diagrams, configuration evidence, and screenshots demonstrating technical implementation and business value.
