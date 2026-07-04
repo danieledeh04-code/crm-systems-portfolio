@@ -10,12 +10,8 @@ The portfolio has been developed using real-world business scenarios to demonstr
 
 ## Portfolio Projects
 
-- Salesforce CRM
-- SAP Order-to-Cash & SAP BTP
-- Azure DevOps SDLC
-- Power BI & Reporting
-- SQL & Data Analysis
-- Finance Application Decisioning
-- ServiceNow Workflows
+- **Salesforce CRM** – Practical CRM administration, automation, security, finance decisioning, campaign management, and SLA/entitlement solutions.
+- **SAP Order-to-Cash & SAP BTP** – End-to-end SAP SD O2C process simulation and SAP Build Apps order management solution.
+- **Azure DevOps SDLC** – Backlog management, user stories, task breakdown, sprint boards, and Agile delivery documentation.
 
-Each project contains supporting documentation, process flows, architecture diagrams, screenshots, and business case studies demonstrating both technical implementation and business value.
+Each project contains supporting documentation, process flows, architecture diagrams, configuration evidence, and screenshots demonstrating technical implementation and business value.
