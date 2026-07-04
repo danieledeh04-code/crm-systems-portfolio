@@ -3,7 +3,7 @@
 ## Welcome
 
 Welcome to my CRM & Systems Portfolio.
-
+This portfolio is organised to support entry-level Business Analyst, Salesforce Administrator, CRM Analyst, and Business Systems Analyst roles.
 This repository showcases a collection of practical projects demonstrating my skills in Business Analysis, CRM Administration, Process Improvement, Data Analysis, Systems Documentation, and Workflow Automation.
 
 The portfolio has been developed using real-world business scenarios to demonstrate problem-solving, system configuration, process mapping, automation, reporting, and stakeholder-focused solutions.
