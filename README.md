@@ -8,6 +8,10 @@ This repository showcases a collection of practical projects demonstrating my sk
 
 The portfolio has been developed using real-world business scenarios to demonstrate problem-solving, system configuration, process mapping, automation, reporting, and stakeholder-focused solutions.
 
+## Portfolio Focus
+
+This portfolio contains practical project simulations and solution demonstrations developed to evidence my capabilities in Business Analysis, CRM administration, process improvement, systems configuration, automation, and Agile delivery.
+
 ## Portfolio Projects
 - **[Salesforce CRM](./Salesforce)** - Practical CRM administration, automation, security, finance decisioning, campaign management, and SLA/entitlement solutions.
 - **[SAP Order-to-Cash & SAP BTP](./SAP%20Order-to-Cash%20%26%20BTP)** - End-to-end SAP SD O2C process simulation and SAP Build Apps order management solution.
@@ -28,5 +32,6 @@ Each project contains supporting documentation, process flows, architecture diag
 - **Automation:** Salesforce Flow, Power Automate, and Zapier
 - **Data & Reporting:** SQL, Excel, Power BI, Tableau, and Python
 - **Delivery & Documentation:** Azure DevOps, Agile SDLC, Backlog Management, Sprint Planning, and Systems Documentation
+
 
 
