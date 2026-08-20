@@ -13,7 +13,7 @@ The portfolio has been developed using real-world business scenarios to demonstr
 This portfolio contains practical project simulations and solution demonstrations developed to evidence my capabilities in CRM, business process automation, workflow improvement and business systems analysis.
 
 ## Portfolio Projects
-
+- **[Power Automate & Workflow Automation](./Power%20Automate)** - Practical workflow automation projects using Microsoft Power Automate, approval logic, email processing and business process improvement.
 - **[Salesforce CRM](./Salesforce)** - Practical CRM configuration, workflow automation, security, case management, reporting and process improvement.
 - **[SAP Order-to-Cash & SAP BTP](./SAP%20Order-to-Cash%20%26%20BTP)** - End-to-end enterprise process simulation covering Order-to-Cash and application-supported workflow improvement.
 - **[Azure DevOps SDLC](./Azure%20DevOps%20SDLC)** - Backlog management, user stories, task breakdown, sprint boards and Agile delivery documentation.
@@ -22,7 +22,7 @@ Each project contains supporting documentation, process flows, configuration evi
 
 
 ## Featured Projects
-
+- **[Power Automate & Workflow Automation](./Power%20Automate)** - Automation projects demonstrating business process analysis, workflow design, trigger/condition logic and practical process improvement using Microsoft Power Automate.
 - **[Salesforce Banking CRM Simulation](./Salesforce/Banking%20CRM%20Simulation)** - CRM solution demonstrating customer management, case handling, automation, reporting, and business process improvement.
 - **[Salesforce Finance Application Decisioning](./Salesforce/Finance%20Application%20Decisioning)** - Automated finance application assessment and decisioning workflow using Salesforce configuration and automation.
 
