@@ -6,7 +6,7 @@ The projects focus on reducing manual work, improving process consistency and tu
 
 ## Projects
 
-- **Invoice Approval Automation** - Automated invoice processing using Microsoft Power Automate, SharePoint, Excel and approval workflows.
+- **Invoice Ingestion & Approval Automation — In Progress** - End-to-end Microsoft Power Automate workflow covering invoice intake, data capture, approval routing, status updates and exception handling.
 - **Application Tracking Automation** - Automated application tracking using forms, spreadsheets and workflow triggers.
 - **Email Classification & Workflow Automation** - Automated email processing and structured classification using Outlook, Microsoft Power Automate and AI-assisted workflow logic.
 - **Stock Monitoring & Reorder Automation** - Rules-based stock monitoring and reorder workflow designed around business thresholds and exception handling.
