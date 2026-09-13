@@ -6,7 +6,7 @@ The projects focus on reducing manual work, improving process consistency and tu
 
 ## Projects
 
-- - **Invoice Ingestion & Approval Automation** - Completed end-to-end Microsoft Power Automate POC that captures invoice emails, stores attachments in SharePoint, creates structured invoice records, routes invoices for approval and updates the record to Approved or Rejected with approval date and reviewer comments.
+- **Invoice Ingestion & Approval Automation** - Completed end-to-end Microsoft Power Automate POC that captures invoice emails, stores attachments in SharePoint, creates structured invoice records, routes invoices for approval and updates the record to Approved or Rejected with approval date and reviewer comments.
 - **Application Tracking Automation** - Automated application tracking using forms, spreadsheets and workflow triggers.
 - **Email Classification & Workflow Automation** - Automated email processing and structured classification using Outlook, Microsoft Power Automate and AI-assisted workflow logic.
 - **Stock Monitoring & Reorder Automation** - Rules-based stock monitoring and reorder workflow designed around business thresholds and exception handling.
@@ -14,6 +14,8 @@ The projects focus on reducing manual work, improving process consistency and tu
 ### Invoice Ingestion & Approval Automation
 
 **Status:** Completed working POC
+
+![Power Automate Invoice Ingestion & Approval Workflow](./Power_Automate_Invoice_Ingestion_Approval_Workflow.png)
 
 This project demonstrates an end-to-end invoice ingestion and approval workflow built using Microsoft Power Automate, Outlook and SharePoint.
 
@@ -39,6 +41,7 @@ Microsoft Power Automate, SharePoint, Outlook, Microsoft 365
 
 **Business value:**  
 The workflow reduces manual invoice handling by automatically capturing incoming invoices, storing supporting documents, creating a structured record and routing the invoice for approval. It improves consistency, visibility and control while providing a clear audit trail.
+
 ## Capabilities Demonstrated
 
 - Microsoft Power Automate
